@@ -1,0 +1,13 @@
+.song-mode {
+  width: 375px;
+}
+
+.song-mode .album-img-container {
+  padding-inline: 25px;
+  padding-top: 20px;
+}
+
+.song-mode .album-img-container img {
+  width: 100%;
+}
+
