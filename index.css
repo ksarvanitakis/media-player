@@ -1,4 +1,7 @@
-:root {
-  --main: rgba(49, 49, 67, 0.5);
-  --full: rgb(49, 49, 67);
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
 }
