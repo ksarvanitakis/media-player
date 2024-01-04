@@ -54,3 +54,26 @@
   height: 10px;
   width: 18%;
 }
+
+.song-mode .controls {
+  align-items: center;
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.song-mode .controls .material-icons {
+  font-size: 40px;
+}
+
+.song-mode .controls .play {
+  font-size: 80px;
+}
+
+.song-mode .controls .previous {
+  margin-right: -40px;
+}
+
+.song-mode .controls .next {
+  margin-left: -40px;
+}
